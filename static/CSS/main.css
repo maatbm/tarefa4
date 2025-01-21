@@ -52,7 +52,7 @@ body{
     background-color: var(--white);
 }
 
-@media screen and (max-width: 481px){
+@media screen and (max-width: 500px){
     #button{
         font-size: 0.5rem;
     }
